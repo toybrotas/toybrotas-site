@@ -1,3 +1,21 @@
-h1{
-    color: green;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --light_blue:#287094;
+    --light_gray:#d4d4ce;
+    --cream_white:#f6f6f6;
+    --dark_blue:#023246;
+    --blue_gray:#414246;
+}
+
+body{
+    background-color: var(--light_gray);
+}
+
+.project-cards{
+    
 }
